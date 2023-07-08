@@ -69,3 +69,26 @@ nav  li{
     font-size: 60px;
 
 }
+.main-1{
+    margin: 130px 120px ;
+    background-color: #faf0e9;
+    text-align: center;
+    
+}
+.main-about-foot{
+    display: flex;
+    justify-content: center;
+
+}
+.main-about-foot>p{
+    margin: 30px;
+    padding-bottom: 60px;
+}
+.main-h1{
+    font-size: 40px;
+    padding-top: 120px;
+}
+.main-pre{
+    font-size: 16px;
+    font-weight: 700;
+}
