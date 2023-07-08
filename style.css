@@ -44,6 +44,8 @@ nav  li{
     font-weight: 700;
     font-size: larger;
 }
+
+/* name style  S */
 .name{
     font-size: 40px;
 }
@@ -69,6 +71,8 @@ nav  li{
     font-size: 60px;
 
 }
+/* main start  */
+
 main{
     margin: 130px 120px ;
  
@@ -76,6 +80,8 @@ main{
     box-sizing: border-box;
     
 }
+
+/* section main-1  */
 .main-1{
     background-color: #faf0e9; 
 
@@ -97,6 +103,8 @@ main{
     font-size: 16px;
     font-weight: 700;
 }
+
+/* section main-3  */
 .main-3{
     display: flex;
     justify-content: space-between;
