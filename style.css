@@ -69,11 +69,16 @@ nav  li{
     font-size: 60px;
 
 }
-.main-1{
+main{
     margin: 130px 120px ;
-    background-color: #faf0e9;
+ 
     text-align: center;
+    box-sizing: border-box;
     
+}
+.main-1{
+    background-color: #faf0e9; 
+
 }
 .main-about-foot{
     display: flex;
@@ -91,4 +96,15 @@ nav  li{
 .main-pre{
     font-size: 16px;
     font-weight: 700;
+}
+.main-3{
+    display: flex;
+    justify-content: space-between;
+   margin-top: 80px;
+}
+.js,.node,.react,.mongo{
+    margin: 10px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.247) 5px 6px 50px 0px;
+    /* gap: 24px; */
 }
